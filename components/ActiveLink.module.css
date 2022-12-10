@@ -1,0 +1,9 @@
+.menu_item{
+  font-size: 18px;
+}
+
+.is_active{
+  color: #1594f6;
+  font-style: italic;
+  transition: all 0.2s ease;
+}
